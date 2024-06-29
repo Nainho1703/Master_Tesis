@@ -1,4 +1,4 @@
-# Master's Thesis: Infection Clusters in Argentina
+# Master's Thesis: Study of the dynamics of Tuberculosis in urban and semi-urban environments in Argentina
 
 ## Overview
 
